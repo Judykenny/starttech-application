@@ -1,0 +1,16 @@
+# Dependencies
+frontend/node_modules/
+frontend/build/
+
+# Go build artifacts
+backend/main
+backend/*.exe
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
